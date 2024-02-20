@@ -1,4 +1,4 @@
-Started on 2/19/24, from the foundations course of TOP
+Started on 2/19/24 and finished on 2/20/24, from the foundations course of TOP
 
 This is going to be a bare-bones HTML website that consists of recipes and links to those recipes. 
 
